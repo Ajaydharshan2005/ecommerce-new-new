@@ -338,6 +338,16 @@ Navigation Component: Built a responsive Nav component with React Router for smo
 Responsive Design: Used CSS Flexbox and media queries to ensure adaptability across all screen sizes, with a hamburger menu for mobile users.
 
 
+## Milestone 31 Summary
+
+In this milestone, you will learn how to implement global state management using Redux in a React project. The main goals are:
+- Install `react-redux` to integrate Redux into your app.
+- Create a `store` folder with `store.js` and `userActions.js` files.
+- Set up the Redux store with a `userReducer` to manage the user's email state.
+- Implement a `setEmail` action in `userActions.js` to update the global state.
+- Wrap the `App` component in the `Provider` component in `index.js` to pass the store.
+
+
  
 
 
